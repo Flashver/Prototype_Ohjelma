@@ -1,0 +1,14 @@
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\bin\Debug\net8.0\Prototype_Palautus.exe
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\bin\Debug\net8.0\Prototype_Palautus.deps.json
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\bin\Debug\net8.0\Prototype_Palautus.runtimeconfig.json
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\bin\Debug\net8.0\Prototype_Palautus.dll
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\bin\Debug\net8.0\Prototype_Palautus.pdb
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\Prototype_Palautus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\Prototype_Palautus.AssemblyInfoInputs.cache
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\Prototype_Palautus.AssemblyInfo.cs
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\Prototype_Palautus.csproj.CoreCompileInputs.cache
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\Prototype_Palautus.dll
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\refint\Prototype_Palautus.dll
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\Prototype_Palautus.pdb
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\Prototype_Palautus.genruntimeconfig.cache
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\ref\Prototype_Palautus.dll
