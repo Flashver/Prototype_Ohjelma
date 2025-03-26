@@ -5,7 +5,7 @@ class Program
     static void Main()
     {
         // Tässä luodaan alkuperäinen örkki npc, jota aiotaan kloonata.
-        Orkki alkuperainen = new Orkki("Örkki", 38);
+        Orkki alkuperainen = new Orkki("Örkki", 38, new Varusteet("Kirves"));
         // Tähän listaan tallentuu kaikki kloonatut örkit.
         List<Orkki> kloonatut = new List<Orkki>();
 
@@ -13,7 +13,7 @@ class Program
         while (true)
         {
             // Tulostetaan valikon tekstit eli näytä, kloonaa jne.
-            Console.Write("\n[1] Näytä  [2] Kloonaa  [3] Poista viimeisin klooni  [Enter] Lopeta\nValinta: ");
+            Console.Write("\n[1] Näytä  [2] Kloonaa  [3] Poista viimeisin klooni [4] Vaihda varuste  [Enter] Lopeta\nValinta: ");
             // Luetaan käyttäjän valinta eli 1, 2, 3 tai enter, ?? "" lisäyksellä varmistamme että valinta ei ole koskaan null, jottei ohjelma voisi koskaan kaatua myöhemmin.
             string valinta = Console.ReadLine() ?? "";
 
@@ -69,6 +69,14 @@ class Program
                 // Jos klooneja ei ole niin ilmoitetaan että ei ole kloonia jota poistaa.
                         Console.WriteLine("\nEi ole örkin kloonia jota poistaa.");
                     }
+                    break;
+                case "4":
+                // Tässä tapahtuu alkuperäisen örkin varusteen vaihtaminen. Muutos tapahtuu myös klooneissa koska varuste on viitetyyppi,
+                // ja koska käytämme esimerkkinä shallow copyä olemme kopioineet kaikki kentät yms sellaisenaan täten muutos tapahtuu kaikissa.
+                    Console.WriteLine("\nAnna uusi varuste: ");
+                    string varuste = Console.ReadLine() ?? "";
+                    alkuperainen.MikäVaruste(varuste);
+                    Console.WriteLine($"\nVaruste vaihdettu: {varuste}");
                     break;
 
                 default:

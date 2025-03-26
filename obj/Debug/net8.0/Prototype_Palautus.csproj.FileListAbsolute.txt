@@ -12,3 +12,4 @@ C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\refint\Proto
 C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\Prototype_Palautus.pdb
 C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\Prototype_Palautus.genruntimeconfig.cache
 C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\ref\Prototype_Palautus.dll
+C:\Users\roope\OneDrive\Desktop\Prototype_Palautus\obj\Debug\net8.0\Prototype_Palautus.sourcelink.json
